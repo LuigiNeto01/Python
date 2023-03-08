@@ -5,6 +5,8 @@ Desenvolver um aplicativo de previsão do tempo que informe as condições clim�
 
 """
 
+#the code is not finished yet but it should work for finish him
+
 import pyowm
 from PySimpleGUI import PySimpleGUI as sg
 
